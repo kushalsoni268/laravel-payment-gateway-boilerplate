@@ -1,0 +1,98 @@
+.content-body .card .card-datatable {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+
+table.dataTable thead .sorting:before, table.dataTable thead .sorting_asc:before, table.dataTable thead .sorting_desc:before, table.dataTable thead .sorting_asc_disabled:before, table.dataTable thead .sorting_desc_disabled:before {
+    right: 0em;
+    content: "";
+}
+
+table.dataTable thead .sorting:after, table.dataTable thead .sorting_asc:after, table.dataTable thead .sorting_desc:after, table.dataTable thead .sorting_asc_disabled:after, table.dataTable thead .sorting_desc_disabled:after {
+    right: 0em;
+    content: "";
+}
+.card-datatable .form-control {
+    height: 2.714rem !important;
+    padding: 0.438rem 1rem !important;
+    font-size: 1rem !important;
+    line-height: 1.45 !important;
+    min-width: 60px;
+}
+
+.main-menu .navbar-header .navbar-brand .brand-logo img {
+    max-width: 56px;
+    width: 130px;
+}
+.loginlogo{
+    height: 84px;
+}
+.auth-wrapper .brand-logo > h2 {
+    margin-left: -12px;
+}
+.auth-wrapper .brand-logo {
+    margin-left: -20px;
+}
+
+.img-wrap {
+    position: relative;
+}
+.img-wrap .close {
+    position: absolute;
+    top: -25px;
+    right: -11px;
+    z-index: 1;
+    color: red;
+    cursor: pointer;
+}
+.custom-deletebtn{
+    width: 36px !important;height: 27px;
+}
+.demo-inline-spacing.custom-amenities-div{
+    margin-top: -29 !important;
+}
+
+.customdatepicker{
+    width: 100%;
+    height: 2.714rem;
+    padding: 0.438rem 1rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.45;
+    color: #6e6b7b;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #d8d6de;
+    border-radius: 0.357rem;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+.upload-img-wrap {
+    display: inline-block;
+    position: relative;
+}
+
+.upload-img-wrap a.close {
+    right: -29px;
+}
+
+.customapprovebtn{
+    padding: 0.300rem 0.5rem;
+    font-size: 0.9rem;
+    line-height: 1;
+    border-radius: 0.358rem;
+}
+
+.custom-pointer{
+    cursor: pointer;
+}
+
+.remove-text-decoration{
+    text-decoration: none !important;
+    color: #6E6B7B !important;
+}
+
+.card-errors{
+    color: red;
+}
