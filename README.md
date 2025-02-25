@@ -26,3 +26,20 @@ By using this boilerplate, developers can quickly set up secure payment processe
 * Javascript
 * PHP
 * Laravel
+
+## Installation
+
+Install or update composer
+
+```bash
+  composer install
+```
+```bash
+  composer update
+```
+
+## Run Project
+
+```bash
+  php artisan serve
+```
