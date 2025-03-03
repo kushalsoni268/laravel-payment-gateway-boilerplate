@@ -6,6 +6,8 @@ The Laravel Payment Gateway Boilerplate is a flexible solution for integrating m
 
 - [About](#user-content-beginner-about)
 - [Tech Stack](#user-content-️-tech-stack)
+- [Installation](#user-content-️-installation)
+- [Run Project](#user-content--run-project)
 
 ##  :beginner: About
 
@@ -27,7 +29,7 @@ By using this boilerplate, developers can quickly set up secure payment processe
 * PHP
 * Laravel
 
-## Installation
+## ⚙️ Installation
 
 Install or update composer
 
@@ -38,7 +40,7 @@ Install or update composer
   composer update
 ```
 
-## Run Project
+## 🚀 Run Project
 
 ```bash
   php artisan serve
